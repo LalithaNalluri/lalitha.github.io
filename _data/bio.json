@@ -1,0 +1,76 @@
+{
+  "basics": {
+    "name": "Lalitha Nalluri",
+    "label": "Student",
+    "picture": "https://github.com/LalithaNalluri.png",
+    "email": "lalithanalluri97@gmail.com",
+    "phone": "940-758-0835",
+    "website": "https://Lalitha.github.io",
+    "summary": "Ambitious Data Science graduate student at the University of North Texas, graduating in May 2023, seeking a Professional-Data Scientist position focusing on creating and developing data analysis models for business communications. Superb attention to detail, skilled at SQL, Python, data modeling, data analytics, data visualization, and machine learning. Attained 3.5 years of experience with IBM as an SQL and ETL(Datastage) developer.",
+    "location": { "address": "", "postalCode": "76201", "city": "Denton", "countryCode": "USA", "region": "Texas" },
+    "profiles": [
+      { "network": "github", "username": "Lalitha", "url": "https://github.com/LalithaNalluri" },
+      { "network": "linkedin", "username": "Lalitha Nalluri", "url": "https://www.linkedin.com/in/lalitha-nalluri/" }
+    ]
+  },
+  "interests": [
+    { "name": "Machine Learning" },
+    { "name": "Deep Learning" },
+    { "name": "Neural Networks" }
+  ],
+  "Programming Languages": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "PLSQL", "UNIX Shell scripting", "cleaning", "exploratory data analysis", "data mining", "Machine Learning", "Deep Learning"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Jupyter Notebook", "Tableau", "MySQL", "Microsoft Office Suite (Excel)", "Oracle", "DB2", "MySQL", "PostgreSQL", "SQL DBX", "TOAD", "PGAdmin4", "Data Stage tool", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of North Texas, Denton, TX",
+      "area": "Data Science ( Spring, 2023)",
+      "studyType": "M.S.",
+      "startDate": "2022-01-01",
+      "endDate": "2023-05-12",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "RadicalX ",
+      "position": "AI Engineer Intern",
+      "website": "",
+      "startDate": "2023-09-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
+      "highlights": [
+        "As an Artificial Intelligence Engineer at RadicalX,", 
+         "I am leveraging technologies such as OpenAI and TensorFlow to develop an AI Dev Manager,",
+        "create algorithms for personalized and adaptive learning,", 
+        "and devise robust anti-cheat and fraud detection systems."
+      ]
+    },
+    {
+      "company": "IBM",
+      "position": "Database and ETL Developer",
+      "startDate": "2018-06-06",
+      "endDate": "2021-12-21",
+      "summary": "",
+      "highlights": [
+        "Understand the business requirement and reach out to respective business Analysts for any queries.",
+        "Generated different reports generated from SQL queries which will ease the business functions.",
+        "Communicated findings to technical and non-technical audiences through effective written and verbal communication.",
+        "Cleaning, managing, optimizing performance with, and processing large volumes of data"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
