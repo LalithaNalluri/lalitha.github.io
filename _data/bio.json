@@ -1,113 +1,71 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Lalitha Nalluri",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/LalithaNalluri.png",
+    "email": "lalithanalluri97@gmail.com",
+    "phone": "940-758-0835",
+    "website": "https://Lalitha.github.io",
+    "summary": "Ambitious Data Science graduate student at the University of North Texas, graduating in May 2023, seeking a Professional-Data Scientist position focusing on creating and developing data analysis models for business communications. Superb attention to detail, skilled at SQL, Python, data modeling, data analytics, data visualization, and machine learning. Attained 3.5 years of experience with IBM as an SQL and ETL(Datastage) developer.",
+    "location": { "address": "", "postalCode": "76201", "city": "Denton", "countryCode": "USA", "region": "Texas" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Lalitha", "url": "https://github.com/LalithaNalluri" },
+      { "network": "linkedin", "username": "Lalitha Nalluri", "url": "https://www.linkedin.com/in/lalitha-nalluri-5a69b51b3/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Machine Learning" },
+    { "name": "Deep Learning" },
+    { "name": "Neural Networks" }
   ],
-  "skills": [
+  "Programming Languages": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "PLSQL", "UNIX Shell scripting", "cleaning", "exploratory data analysis", "data mining", "Machine Learning", "Deep Learning"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Jupyter Notebook", "Tableau", "MySQL", "Microsoft Office Suite (Excel)", "Oracle", "DB2", "MySQL", "PostgreSQL", "SQL DBX", "TOAD", "PGAdmin4", "Data Stage tool", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "University of North Texas, Denton, TX",
+      "area": "Data Science ( Spring, 2023)",
+      "studyType": "M.S.",
+      "startDate": "2022-01-01",
+      "endDate": "2023-05-12",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "RadicalX ",
+      "position": "AI Engineer Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-09-01",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "As an Artificial Intelligence Engineer at RadicalX,", 
+         "I am leveraging technologies such as OpenAI and TensorFlow to develop an AI Dev Manager,",
+        "create algorithms for personalized and adaptive learning,", 
+        "and devise robust anti-cheat and fraud detection systems."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "IBM",
+      "position": "Database and ETL Developer",
+      "startDate": "2018-06-06",
+      "endDate": "2021-12-21",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Understand the business requirement and reach out to respective business Analysts for any queries.",
+        "Generated different reports generated from SQL queries which will ease the business functions.",
+        "Communicated findings to technical and non-technical audiences through effective written and verbal communication.",
+        "Cleaning, managing, optimizing performance with, and processing large volumes of data"
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
